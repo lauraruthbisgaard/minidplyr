@@ -4,12 +4,20 @@
 \name{minidplyr-package}
 \alias{minidplyr}
 \alias{minidplyr-package}
-\title{minidplyr: What the Package Does (One Line, Title Case)}
+\title{minidplyr: Simple calculations and creating new dataframes with selected variables}
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/lauraruthbisgaard/minidplyr}
+  \item Report bugs at \url{https://github.com/lauraruthbisgaard/minidplyr/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Laura Bisgaard \email{lrb@anivet.au.dk}
 
 }
 \keyword{internal}

@@ -10,7 +10,8 @@
 #' @param y A number
 #'
 #' @returns The sum of x + y
-#' @export
+#' @export 
+#' @import dplyr
 #'
 #' @examples
 test <- function(x,y){
